@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SwiftyBeaver"
-  s.version      = "1.7.1"
+  s.version      = "1.7.2"
   s.summary      = "Convenient logging during development & release in Swift 2, 3, 4 & 5."
 
   # This description is used to generate tags and improve search results.
