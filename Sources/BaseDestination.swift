@@ -67,8 +67,8 @@ open class BaseDestination: Hashable, Equatable {
         public var error = ""       // red
     }
 
-    var reset = ""
-    var escape = ""
+    public var reset = ""
+    public var escape = ""
 
     var filters = [FilterType]()
     let formatter = DateFormatter()
